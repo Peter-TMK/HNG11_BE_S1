@@ -1,0 +1,10 @@
+{
+  "projectName": "ip-location-temperature-server",
+  "meta": {
+    "type": "backend"
+  },
+  "backend": {
+    "platform": "node17"
+  },
+  "hash": "9378844a"
+}
